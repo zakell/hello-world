@@ -3,6 +3,6 @@
   <title>PHP+Docker Test</title>
  </head>
  <body>
- <?php echo '<p>XDXDXDXDXD XD, this is a test & an active change test !</p>'; ?> 
+ <?php echo '<p>DO YOU SEE ME XD, this is a test & an active change test !</p>'; ?> 
  </body>
 </html>
